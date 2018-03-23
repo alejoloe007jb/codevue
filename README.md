@@ -1,3 +1,3 @@
 <p align="center">
 </p>
-<h2 align="center">Supporting CodeVue</h2>
+<h2 align="center">CodeVue</h2>
