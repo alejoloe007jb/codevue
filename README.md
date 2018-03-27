@@ -11,8 +11,7 @@
     <img alt="" src="https://img.shields.io/badge/bootstrap-4.0.0-800080.svg?style=flat-square">
 </a>
 
-
-[![npm](https://img.shields.io/npm/l/express.svg)](codevue)
+[![npm (custom registry)](https://img.shields.io/npm/l/express.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com)](https://github.com/alejoloe007jb)
 
 </p>
 
