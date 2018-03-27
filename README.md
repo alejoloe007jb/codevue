@@ -10,6 +10,9 @@
 <a href="https://getbootstrap.com/docs/4.0">
     <img alt="" src="https://img.shields.io/badge/bootstrap-4.0.0-800080.svg?style=flat-square">
 </a>
+
+[![CRAN](https://img.shields.io/cran/l/devtools.svg)](https://github.com/alejoloe007jb/codevue)
+
 </p>
 
 ### License
