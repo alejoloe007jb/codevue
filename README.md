@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150"src="https://fidelusperutravel.com/wp-content/uploads/2018/03/vuecode-01.png">
+  <img width="250" src="https://fidelusperutravel.com/wp-content/uploads/2018/03/vuecode-01.png">
 </p>
 
 ### License
