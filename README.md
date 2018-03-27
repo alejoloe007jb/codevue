@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://getbootstrap.com/docs/4.0">
-  <img src="https://img.shields.io/npm/l/codevue.svg" alt="License">
+  <img src="https://img.shields.io/npm/l/express.svg" alt="License">
 </a>
 
 
