@@ -13,5 +13,8 @@
 
 </p>
 
+## Introduction
+CodeVue 
+
 ### License
 CodeVue is [MIT licensed](./LICENSE).
